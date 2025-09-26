@@ -101,14 +101,22 @@ color: #404bbf;
         color: #434455;
 }
 
+.team-section {
+    background-color: #f4f4fd;
+}
+
 .team {
-    background-color:#f4f4fd;
-            font-weight: 700;
+                font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
+        text-transform: capitalize;
         color: #2e2f42;
+}
+
+.team-img {
+    background-color: #fff;
 }
 
 .team-list {
