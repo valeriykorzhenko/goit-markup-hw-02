@@ -64,7 +64,7 @@ color: #404bbf;
 .hero-text {
             font-weight: 700;
         font-size: 56px;
-        line-height: 1.8;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
@@ -77,6 +77,7 @@ color: #404bbf;
         letter-spacing: 0.04em;
         color: #fff;
     background-color: #4d5ae5;
+    cursor: pointer;
 }
 
 .hero-button:hover,
@@ -101,10 +102,10 @@ color: #404bbf;
 }
 
 .team {
-    background-color: #f4f4fd;
+    background-color:#f4f4fd;
             font-weight: 700;
         font-size: 36px;
-        line-height: 1.10;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
